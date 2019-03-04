@@ -19,7 +19,7 @@ presenters:
       Ben will tell us all about the power of functional programming,
       specifically memoization and how it can help speed up frequently used side
       effect-less functions.
-  - image: /img/humphrey-muleba-795250-unsplash.jpg
+  - image: /img/lucas-sankey-378674-unsplash.jpg
     name: Malcolm
     presentationTitle: Dev
     text: >-
