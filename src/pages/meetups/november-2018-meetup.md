@@ -1,6 +1,6 @@
 ---
 title: November 2060
-date: 2060-11-09T23:00:00.000Z
+date: 2060-11-11T23:00:00.000Z
 presenters:
   - image: /img/jonas-kakaroto-577554-unsplash.jpg
     links:
